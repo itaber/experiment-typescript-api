@@ -1,0 +1,32 @@
+{
+  "name": "experiment-typescript-api",
+  "version": "1.0.0",
+  "description": "an experimental sandbox project to create a typescript api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaber/experiment-typescript-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaber/experiment-typescript-api/issues"
+  },
+  "homepage": "https://github.com/itaber/experiment-typescript-api#readme",
+  "dependencies": {
+    "@types/node": "^13.7.1",
+    "express": "^4.17.1",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5"
+  }
+}

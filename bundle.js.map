@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sourceRoot":"","sources":["src/util.ts","src/server.ts"],"names":[],"mappings":";;;;;;;YAEA,oBAAa,MAAM,GAAG,CAAC,OAAe,EAAU,EAAE;gBAChD,OAAO,SAAS,OAAO,EAAE,CAAC;YAC5B,CAAC,EAAA;;;;;;;;ICFD,SAAS,OAAO,CAAC,MAAc;QAC7B,OAAO,aAAM,CAAC,MAAM,CAAC,CAAC;IACxB,CAAC;;;;;;;;YAED,OAAO,CAAC,KAAK,CAAC,CAAC"}
