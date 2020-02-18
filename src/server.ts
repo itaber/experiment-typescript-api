@@ -1,4 +1,4 @@
-import { helper } from './util';
+import helper from './util';
 
 function greeter(person: string) {
   return helper(person);

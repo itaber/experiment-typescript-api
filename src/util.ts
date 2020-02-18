@@ -1,4 +1,2 @@
 
-export const helper = (personn: string): string => {
-  return `hello there ${personn}`;
-}
+export default (personn: string): string => `hello there ${personn}`;
