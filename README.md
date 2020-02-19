@@ -2,12 +2,12 @@
 an experimental project to create a typescript api
 
 
-[x] express
-[x] typescript
-[x] jest
-[x] hot reloading
-[ ] husky
-[ ] build with out running dev server
+* [x] express
+* [x] typescript
+* [x] jest
+* [x] hot reloading
+* [ ] husky
+* [ ] build with out running dev server
 
 References:
 
